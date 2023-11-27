@@ -96,9 +96,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [BATUTA NKUMA Sael](https://github.com/Batutankuma)
-- Twitter - [BaATUTA NKUMA Sael](twitter.com/BatutaSael)
-- Website - [https://nestjs.com](https://nestjs.com/)https://
+- Author - [@Batutankuma](https://github.com/Batutankuma)
+- Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
